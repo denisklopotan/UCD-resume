@@ -43,7 +43,7 @@
     margin-bottom: 40px;
 }
 
-/*--------------------------------------------Special paddings/margins/text*/
+/* ----------------------------------------Special paddings/margins/text */
 
 h1,
 h2,
@@ -129,13 +129,13 @@ header {
     font-size: 0;
 }
 
-#nav {
-    margin: 0;
-}
-
 #nav li {
     font-size: 14px;
     padding: 0;
+}
+
+#nav {
+    margin: 0;
 }
 
 .menuitem {
@@ -176,7 +176,7 @@ header {
     height: 120px;
 }
 
-/*--------------------------------------------Footer.css*/
+/* ----------------------------------------Footer */
 
 footer {
     background-color: #525252;
@@ -226,4 +226,15 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/* ----------------------------------------Three Reasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
